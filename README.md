@@ -1,1 +1,2 @@
-# SQL-50-
+# SQL-50
+- Day 1: https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50
