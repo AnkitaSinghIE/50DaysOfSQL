@@ -6,3 +6,4 @@
 - Day 5 [Invalid Tweets Leetcode solution](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50)
 - Day 6 [Replace Employee ID With The Unique Identifier Leetcode solution](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1900496654/?envType=study-plan-v2&envId=top-sql-50)
 - Day 7 [Product Sales Analysis1 Leetcode Solution](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50)
+- Day 8 [Customer Who Visited But Did not Make any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/submissions/1907425125/?envType=study-plan-v2&envId=top-sql-50)
