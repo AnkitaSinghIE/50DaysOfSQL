@@ -10,3 +10,5 @@
 - Day 9 [Rising Temperature Leetcode Solution](https://leetcode.com/problems/rising-temperature/submissions/1912130071/?envType=study-plan-v2&envId=top-sql-50)
 - Day 10 [Average Time of Process per Machine Leetcode solution](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/1914891137/?envType=study-plan-v2&envId=top-sql-50)
 - Day 11 [Employee Bonus Leetcode Solution](https://leetcode.com/problems/employee-bonus/submissions/1914931217/?envType=study-plan-v2&envId=top-sql-50)
+- Day 12 [Students and Examinations Leetcode Solution](https://leetcode.com/problems/students-and-examinations/submissions/1915556961/?envType=study-plan-v2&envId=top-sql-50)
+
